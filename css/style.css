@@ -28,7 +28,14 @@
  .factImg{
   width:70%;
  }
+
+ .secondRow{
+  padding:20px;
+ }
  
+ .col-4 img{
+  width:100%;
+ }
  .portrait{
    max-width:40%;
  }
